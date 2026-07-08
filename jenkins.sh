@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "this file is. folder create
-mkdir jenkins1
+echo "this file is. folder create"
+mkdir jenkins2
